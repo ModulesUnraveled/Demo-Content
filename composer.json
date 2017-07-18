@@ -1,0 +1,15 @@
+{
+    "name": "drupal_pg/demo_content",
+    "description": "Creates demo content for Drupal Practice Group",
+    "type": "drupal-module",
+    "license": "GPL-2.0+",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
+        }
+    ],
+    "require-dev": {
+        "drupal/default_content": "^1.0"
+    }
+}

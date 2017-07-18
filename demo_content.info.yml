@@ -1,0 +1,7 @@
+name: Demo Content
+description: Creates demo content for testing.
+package: Demo # Put it wherever you want on the "Extend" page. Only applies when "hidden: False"
+type: module
+hidden: TRUE # This hides the module from the "Extend" page to prevent it from getting installed on accident
+version: 1.0
+core: 8.x
